@@ -1,0 +1,22 @@
+{
+	"clusters": [
+		{
+			"vk": {
+				"token": "760adf9167e35d85fb9c025734960eade2b5c380c98945b70997df92ff9019b795b1e48a97913e120d137",
+				"group_id": "freesteam" ,
+				"keywords": [],
+				"filter": true,
+				"longpoll": false,
+				"interval": 30
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discordapp.com/api/webhooks/718404462871445534/Dbe-IctH7nnCF24lSkFcEenQ8JLQz90CKQmESPuUaHl-E-M6-ZLhB0TKqx3doK-pyxkp"
+				],
+				"bot_name": "Раздатчик",
+				"color": "#aabbcc"
+			}
+		}
+	],
+	"version_dont_modify_me": 1
+}
